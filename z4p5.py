@@ -1,7 +1,0 @@
-a = int(input())
-b = int(input())
-s = abs(a) + abs(b)
-r = abs(a) - abs(b)
-p = abs(a) * abs(b)
-ch = abs(a) / abs(b)
-print("Сумма =", s, "Разность =", r, "Произведение =", p, "Частное =", ch) 
